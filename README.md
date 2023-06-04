@@ -4,9 +4,10 @@ Node js + Socket.io + Express
 
 ## Setup -->
 
-npm init -y
-npm install express
-npm install nodemon -D
-npm install socket.io
+1. npm init -y
+2. npm install express
+3. npm install nodemon -D
+4. npm install socket.io
 
 npm run dev
+
